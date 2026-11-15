@@ -9,4 +9,4 @@
 Исторические журналы: [Desktop](docs/history/DESKTOP_NOTES_20261115.md), [Source](docs/history/SOURCE_NOTES_20261115.md). Результаты текущих проверок: [MIGRATION_VALIDATION](docs/verification/MIGRATION_VALIDATION.md).
 
 
-Публикация и свежий GitHub clone проверены: Windows build helper -Tests успешен, core70pass/1skip, lint0errors/19warnings. OpenSpec strict validation прошла. A51/эмулятор не использовались. Завершающий коммит меняет только документацию/план/отчёты.
+Публикация и свежий GitHub clone проверены: Windows build helper -Tests успешен, core70pass/1skip, lint0errors/17warnings (первая подготовленная копия:19warnings). OpenSpec strict validation прошла. A51/эмулятор не использовались. Завершающие коммиты меняют только документацию/план/отчёты.

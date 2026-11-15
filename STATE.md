@@ -28,4 +28,4 @@ Candidate11: app SHA256 8fb06764875f9782240d0f8d41a91a1cfa681cdacdd5c1057b411f5c
 Следующий инфраструктурный шаг после clone — настроить JDK17/SDK36 и проверить сборку по README. Следующий продуктовый шаг после отдельного поручения — продолжить незавершённую 3.4 с учётом private материалов и их доступности. Автоматически переходить к 3.5 нельзя.
 
 
-Свежий GitHub clone успешно собран документированной командой; 70 core passed/1 skipped, lint0errors/19warnings. Репозиторий private, default branch codex/project-transfer. Доступ текущего GitHub-плагина подтверждён; другие аккаунты/ИИ не подключены. Подробности в migration validation.
+Свежий GitHub clone успешно собран документированной командой; 70 core passed/1 skipped, lint0errors/17warnings (в первой подготовленной копии было19warnings). Репозиторий private, default branch codex/project-transfer. Доступ текущего GitHub-плагина подтверждён; другие аккаунты/ИИ не подключены. Подробности в migration validation.
