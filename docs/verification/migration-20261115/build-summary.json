@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-15",
+  "platform": "Windows x64",
+  "java": "Oracle JDK 17.0.12",
+  "gradle": "8.13",
+  "agp": "8.13.2",
+  "kotlin": "2.2.21",
+  "sdk": 36,
+  "buildTools": "35.0.0",
+  "command": "gradlew.bat --no-daemon --console=plain :core:test :app:assembleDebug :app:assembleDebugAndroidTest :app:lintDebug",
+  "result": "BUILD SUCCESSFUL",
+  "duration": "8m 21s",
+  "tasks": "83 executed",
+  "core": {
+    "tests": 71,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1,
+    "passed": 70
+  },
+  "suites": [
+    {
+      "suite": "lab.sf7b.core.EditorContractTest",
+      "tests": 29,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 44.1
+    },
+    {
+      "suite": "lab.sf7b.core.GraphicsTest",
+      "tests": 10,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 1,
+      "seconds": 19.523
+    },
+    {
+      "suite": "lab.sf7b.core.NodeRasterCacheTest",
+      "tests": 15,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 2.772
+    },
+    {
+      "suite": "lab.sf7b.core.ReferenceColorEffectsTest",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 0.009
+    },
+    {
+      "suite": "lab.sf7b.core.ReferenceEffectsTest",
+      "tests": 9,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "seconds": 1.167
+    }
+  ],
+  "lint": {
+    "errors": 0,
+    "warnings": 19,
+    "issues": [
+      {
+        "id": "AndroidGradlePluginVersion",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "GradleDependency",
+        "severity": "Warning"
+      },
+      {
+        "id": "NewerVersionAvailable",
+        "severity": "Warning"
+      },
+      {
+        "id": "NewerVersionAvailable",
+        "severity": "Warning"
+      },
+      {
+        "id": "UsableSpace",
+        "severity": "Warning"
+      },
+      {
+        "id": "UsableSpace",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      },
+      {
+        "id": "UseKtx",
+        "severity": "Warning"
+      }
+    ]
+  },
+  "apks": [
+    {
+      "path": "app/build/outputs/apk/debug/app-debug.apk",
+      "bytes": 11271601,
+      "sha256": "9c6298173cf4ed53ace1cb7bd523c8138cc7ee9d609df13b4eff49fcf261e987"
+    },
+    {
+      "path": "app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk",
+      "bytes": 1162817,
+      "sha256": "abaecb654380e8925b43d98f3cd065052d83a1c37d08bb5451a48ab3539af776"
+    }
+  ],
+  "phoneUsed": false,
+  "emulatorUsed": false,
+  "parityVerified": false,
+  "linuxCIExecuted": false
+}

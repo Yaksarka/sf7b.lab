@@ -1,0 +1,11 @@
+phase,document_size,preview_size,layers,milliseconds,image_provider_calls,text_raster_calls,cache_hits,cache_misses,scope
+cold,2000x2000,512x512,2,1601.481653,1,1,0,4,single-run-debug-exact-pixels-not-median-not-original-parity
+uncached_baseline,2000x2000,512x512,2,1179.333192,1,1,0,0,single-run-debug-exact-pixels-not-median-not-original-parity
+unchanged_warm,2000x2000,512x512,2,65.103269,0,0,1,0,single-run-debug-exact-pixels-not-median-not-original-parity
+upper_mask_edit,2000x2000,512x512,2,410.891538,0,0,2,2,single-run-debug-exact-pixels-not-median-not-original-parity
+upper_mask_edit_uncached,2000x2000,512x512,2,1413.319192,1,1,0,0,single-run-debug-exact-pixels-not-median-not-original-parity
+early_effect_edit,2000x2000,512x512,2,543.887769,0,0,2,2,single-run-debug-exact-pixels-not-median-not-original-parity
+early_effect_edit_uncached,2000x2000,512x512,2,1187.451538,1,1,0,0,single-run-debug-exact-pixels-not-median-not-original-parity
+source_replaced,2000x2000,512x512,2,1277.603769,1,0,1,3,single-run-debug-exact-pixels-not-median-not-original-parity
+source_replaced_uncached,2000x2000,512x512,2,1177.617384,1,1,0,0,single-run-debug-exact-pixels-not-median-not-original-parity
+source_replaced_warm,2000x2000,512x512,2,32.797231,0,0,1,0,single-run-debug-exact-pixels-not-median-not-original-parity

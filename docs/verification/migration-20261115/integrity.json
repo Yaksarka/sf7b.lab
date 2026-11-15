@@ -1,0 +1,16 @@
+{
+  "originalsUnchanged": {
+    "desktop": 178,
+    "source": 234
+  },
+  "originalChanges": [],
+  "missingBuildSources": [],
+  "buildSourceDeviations": [
+    "app/build.gradle.kts",
+    "core/src/test/kotlin/lab/sf7b/core/GraphicsTest.kt"
+  ],
+  "allowedDeviations": [
+    "app/build.gradle.kts",
+    "core/src/test/kotlin/lab/sf7b/core/GraphicsTest.kt"
+  ]
+}

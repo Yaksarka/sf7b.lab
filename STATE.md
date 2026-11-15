@@ -1,0 +1,29 @@
+# Состояние sf7b.lab — 15.11.2026
+
+Канонический проект теперь находится в корне этого репозитория. Перенос инфраструктуры не завершает ни одной продуктовой задачи.
+
+## Разработка на паузе
+
+OpenSpec: **12/43**, **3.4 открыт**, 3.5 не начат. Checkbox исходного tasks.md сохранены. Продолжение только после отдельного поручения владельца.
+
+Последний checkpoint телефона — 15.11.2026 11:54:39 МСК; он не перепроверялся при переносе:
+- Glitch Lab: редактор Adjust/Brightness=2 на собственном grid, последняя правка не подтверждена. Cancel не доказан, системный overlay перекрывал кнопки. До будущего ввода обязательны свежие экран/foreground/overlay-проверки.
+- В Glitch временно Activated две настройки: Video and Bookmarks user interface и Area of effect user interface(BETA). После отдельно разрешённого возобновления вернуть обе в исходное Deactivated и подтвердить. При переносе их не меняли.
+- One Lab Touch recording ранее возвращён false. Историческое состояние не является свежей проверкой.
+- Glitch PNG и содержательный Undo/Redo проверены в последней сессии. CREATE video вернул несовместимость keyframes; успешного Glitch video output нет. Гипотеза опыта с Brightness1/2 не подтверждена.
+- Свежей post-backup проверки данных lab.sf7b нет. Исторический backup не доказывает сохранность текущих данных.
+
+## Проверенная историческая база
+
+Candidate11: app SHA256 8fb06764875f9782240d0f8d41a91a1cfa681cdacdd5c1057b411f5c89a1a500. Ранее собран/установлен на A51, выполнены ограниченные контракты 2.1–2.4. Малые fixtures и preview512 не равны полноразмерному рендерингу 15 слоёв. Полный паритет, process death и целевая производительность остаются непроверенными. Подробности: [TEST_REPORT](TEST_REPORT.md), [PERFORMANCE](PERFORMANCE.md).
+
+Миграционные APK имеют другой build context и могут иметь другую подпись; не подменяют candidate11. Текущие команды/результаты: [MIGRATION_VALIDATION](docs/verification/MIGRATION_VALIDATION.md).
+
+## Перенос
+
+Сохранены рабочие Android/core/test source, более свежий screenshot helper из source-папки и конфигурация внешней подписи из Desktop. Алгоритмы и UI продукта при переносе не менялись. Optional Windows wallpaper в host-test заменён существующим собственным generated fallback для переносимости. Свежие сборка/tests не требуют private research.
+
+Источники и исключения: [MIGRATION](docs/MIGRATION.md), [manifest](docs/verification/migration-20261115/source-manifest.json). Архивы: [Desktop STATE](docs/history/DESKTOP_STATE_20261115.md), [Source STATE](docs/history/SOURCE_STATE_20261115.md); архивные команды не являются новыми разрешениями.
+
+Следующий инфраструктурный шаг после clone — настроить JDK17/SDK36 и проверить сборку по README. Следующий продуктовый шаг после отдельного поручения — продолжить незавершённую 3.4 с учётом private материалов и их доступности. Автоматически переходить к 3.5 нельзя.
+

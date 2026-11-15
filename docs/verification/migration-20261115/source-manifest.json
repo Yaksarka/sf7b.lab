@@ -1,0 +1,864 @@
+{
+  "date": "2026-11-15",
+  "note": "Original SHA256 before portability/sanitization changes. desktop/source are logical origin labels; private paths are omitted.",
+  "files": [
+    {
+      "path": "app/build.gradle.kts",
+      "origin": "source",
+      "originalPath": "app/build.gradle.kts",
+      "originalSha256": "398c479b5f573f80f597d8bdc3cd750c0a38b5eac2ff2222abc48f1697a55ea7"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/DevicePerformanceTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/DevicePerformanceTest.kt",
+      "originalSha256": "1a5d8e90815b79b5d3e39d1f986d36f2de9a76ff2cff604fb0da6a6191419d33"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/EditorUiTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/EditorUiTest.kt",
+      "originalSha256": "8853d715bbd69c9a89952b977c30915db895755b492a72bd2a19cf70657d5388"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/GpuChainTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/GpuChainTest.kt",
+      "originalSha256": "c800f4dc6e6187479ccbe61371f42e9ad56a917aaf6f3e5876a2c2e709ce9c89"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/GpuRenderTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/GpuRenderTest.kt",
+      "originalSha256": "0785cdabc9528e6def89b9448b9737f4afbe43437543cb2c4ad13b95e5a9ba9e"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/ImportColorTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/ImportColorTest.kt",
+      "originalSha256": "b2cb9b34fe7297a2123755d041bda8525adb4ce69b1779daff5288d751add9bc"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/MixedDocumentDeviceTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/MixedDocumentDeviceTest.kt",
+      "originalSha256": "70a98e513c0e8be2b902eac7d1d854cb8a9ee062f20e0ce443cb6c873a49cdea"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/MixedPreviewCacheDeviceTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/MixedPreviewCacheDeviceTest.kt",
+      "originalSha256": "6419101053eb2fe64fb774b91de209f7a811de0a871f14c095f9c3c2aca23b38"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/NativePipelineTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/NativePipelineTest.kt",
+      "originalSha256": "0ed25613c5df4be689057b68b99699e30a5be1e609962f3a6096a6e86ce12221"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/PreviewCacheDeviceTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/PreviewCacheDeviceTest.kt",
+      "originalSha256": "e6c8390927265ca714c865a6a03edb6c4caaa3bc4a237697a4b716ed2e9809ec"
+    },
+    {
+      "path": "app/src/androidTest/java/lab/sf7b/ToolsPersistenceTest.kt",
+      "origin": "source",
+      "originalPath": "app/src/androidTest/java/lab/sf7b/ToolsPersistenceTest.kt",
+      "originalSha256": "c06054bd6e3c2753d0b0afd2664a9f9e8b283e6739088fcca3961a9189473309"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/AndroidManifest.xml",
+      "originalSha256": "d06b1b87dbe69b82615170f1c441aaaf2909859cfe9d43084b60592373ff23b9"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/AndroidSources.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/AndroidSources.kt",
+      "originalSha256": "284befb4a4e2b8548c079181c1a28b11da7854f89b6c43726a20e6368461afd1"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/Controls.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/Controls.kt",
+      "originalSha256": "18418c24a20dd5fd134e859227dda5a4fe957be33bc7e96d81650f22d250a9bc"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/DeviceInfo.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/DeviceInfo.kt",
+      "originalSha256": "3cb5f7289b58bc3eaa2149ab2f907eacbf311505fcdf56ac31ac7732254cec5d"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/EditorApp.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/EditorApp.kt",
+      "originalSha256": "0ecf99cac1536aec638a38291af643c7ab64162318f6544793b596f6c3c990f2"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/EditorModel.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/EditorModel.kt",
+      "originalSha256": "7119b0fc370598475f2b8cfb8d8a0c7302a8d0492c19e84d77a35ca6aeba2d72"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/EffectPanels.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/EffectPanels.kt",
+      "originalSha256": "17d445ca2d203f89e816857a3095e973d2962c374b1d099ac74faf5a0f3cb4fa"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/FilePanels.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/FilePanels.kt",
+      "originalSha256": "528ae34605dc67fcd38c7edde6832e455d1b0ec24b8ed7aa901709b63b846c2a"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/GpuRenderer.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/GpuRenderer.kt",
+      "originalSha256": "636bc44aec22cb008054e37cda39e138dcbd8578e1f69678682e991f8b12b059"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/LayerPanels.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/LayerPanels.kt",
+      "originalSha256": "d3d0675ec9d93de4445a0721282dd39e63c7eb21fcb9602407d9537af9fd36e2"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/MainActivity.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/MainActivity.kt",
+      "originalSha256": "12fdd1669de5908bf00891253eb80848748a5bbc48fcdeff0dd3e8dd4913bdf7"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/Preview.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/Preview.kt",
+      "originalSha256": "268897a994f05aa9d4b225afb102989a7f1873e6fe66530a51228c92a1594192"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/ProjectGallery.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/ProjectGallery.kt",
+      "originalSha256": "f4f9be3cea778d5ac4bd80ccd00d716112aa8e0e0a8278d8a6de31c9ac8f323a"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/ProjectLibrary.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/ProjectLibrary.kt",
+      "originalSha256": "3d796b46ce5543331ce99f4eae0d781c909442a31dd8da08c6a5c4c95e421a3a"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/StudioDock.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/StudioDock.kt",
+      "originalSha256": "3b9c0d79fcf2b35fd3678493306fd42c5a864c8e6d50a416f5dd1aa1c1642afe"
+    },
+    {
+      "path": "app/src/main/java/lab/sf7b/TreePanel.kt",
+      "origin": "source",
+      "originalPath": "app/src/main/java/lab/sf7b/TreePanel.kt",
+      "originalSha256": "97f85ae7f0bdfc7058d708f807f984a5713c01a940453553799f730c548fafa7"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_back.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_back.xml",
+      "originalSha256": "311f97bbcddc6357756417c949e0f7df6dcb527b4b90601ee77ed55c736970c7"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_bookmark.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_bookmark.xml",
+      "originalSha256": "81873bb3a3a7e3a70b9f0de60eb14dc553cf4cccb07df5b9aca7006a6962281c"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_brush.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_brush.xml",
+      "originalSha256": "e064ac6256ac7244c8717143f4fa8ea14a6de37940dc5a1d440079e152544fb7"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_chevron_down.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_chevron_down.xml",
+      "originalSha256": "c7c19e3cb118f5c983cbff5c7b263184a1fca9fb612c0990582ad2ccc81e7aa6"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_chevron_up.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_chevron_up.xml",
+      "originalSha256": "83fc3afa1e230f70721f4005d5ec7b3d2136d6f547ac77a38d04cf81443c4ded"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_crop.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_crop.xml",
+      "originalSha256": "8caf84bf542bd10c7da7deb2e95a9358c457f7c7476cb631285e21ed1cec27d6"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_launcher.xml",
+      "originalSha256": "727348b60a6781a521336eb7896e26f3766ac58032eb7ac8a1ca2c632dfd776d"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_layers.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_layers.xml",
+      "originalSha256": "1cfe390e1f903ead922fbd2b0f5f162bc0ff453841cfc9c141a045e3357c03e8"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_save.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_save.xml",
+      "originalSha256": "5ecedafb25fb58ed1dae01f367a7a596367582231eae61a77694f2b532071733"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_shuffle.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_shuffle.xml",
+      "originalSha256": "1436ccff41c3eb9ff7c77cd2df8ad44857a56699887c9218333f897335315d5e"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_text.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_text.xml",
+      "originalSha256": "7398e3c760d4739443e5653354f0af92f03eea77bfcf39b6c0be7e0dd18b31db"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_tree.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_tree.xml",
+      "originalSha256": "769d15c2306330b41860e237bb3492226fb44fc6cbeaabeee4567b4581862352"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_undo.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/drawable/ic_undo.xml",
+      "originalSha256": "4328dac14e620d4519164e54ab9a0037fa437c99c4f4cf6bbb2b3475bf1f14a2"
+    },
+    {
+      "path": "app/src/main/res/values/styles.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/values/styles.xml",
+      "originalSha256": "5169d187b522ccff9dbed4ff600051e2147b4b2080d2d993ac10427aa23e4fb9"
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "origin": "source",
+      "originalPath": "app/src/main/res/xml/data_extraction_rules.xml",
+      "originalSha256": "f50148eab9e607a1d41b41ab1a6832353af0cb98c5fb4e2ca6364942cfea5969"
+    },
+    {
+      "path": "build.gradle.kts",
+      "origin": "source",
+      "originalPath": "build.gradle.kts",
+      "originalSha256": "3cb846246497b1e8b94b93639dd2f992623d368c779548c33da8adf4faaa87bb"
+    },
+    {
+      "path": "core/build.gradle.kts",
+      "origin": "source",
+      "originalPath": "core/build.gradle.kts",
+      "originalSha256": "23a09afc752459f6caa9008242cb7bb775e2e7a8b9e22d5d7e0ed9a755346f4d"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/Catalog.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/Catalog.kt",
+      "originalSha256": "6c5c8e56b5d311a8735cdd7e8a5a77cfe190df9bf86f718e4c80045b9277362e"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/Document.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/Document.kt",
+      "originalSha256": "5080df69959306da9b4da4b9726e3e056a78807cb75682a78331795b563d452a"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/NodeRasterCache.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/NodeRasterCache.kt",
+      "originalSha256": "de161fc5ecd8fba54956ba79c9da6276c40a15be3621a7fe6b1da03525a6e4fd"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/Pixels.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/Pixels.kt",
+      "originalSha256": "d9d0343506bf504002db2412dc9add130c37e24f8fb0bcb529045b81ada48878"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/PngWriter.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/PngWriter.kt",
+      "originalSha256": "c47dafb878fa184468d0952e2560230ff755b4f30591c7da034ad1edf66db04f"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/PointwiseEffects.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/PointwiseEffects.kt",
+      "originalSha256": "b19bee6e3752a8e2a5b6b9162fb2a738942b462034dd68a217532fb6de844c84"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/ProjectFiles.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/ProjectFiles.kt",
+      "originalSha256": "350aa405de156457685fb567d213f548a02952e3c07c07415b8959231dc7d597"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/ReferenceColorEffects.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/ReferenceColorEffects.kt",
+      "originalSha256": "278eda7be353027bce3edfa671c36d4e68dc298fdd5a93937448e4dbe167b719"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/ReferenceEffects.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/ReferenceEffects.kt",
+      "originalSha256": "a307926fdaec206e008139bb4b7087b6c387a786e2fb8a61d7719ee5607760b3"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/Renderer.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/Renderer.kt",
+      "originalSha256": "e5a6468faf02b014cb81a1bff9b85afc2b6818dedcea92ccacb8797a9ab467d3"
+    },
+    {
+      "path": "core/src/main/kotlin/lab/sf7b/core/Surface.kt",
+      "origin": "source",
+      "originalPath": "core/src/main/kotlin/lab/sf7b/core/Surface.kt",
+      "originalSha256": "6d90fb2125e616cc8ee3d849441d14a2828452c8cd0a2c2c5050fc519c05e8cb"
+    },
+    {
+      "path": "core/src/test/kotlin/lab/sf7b/core/EditorContractTest.kt",
+      "origin": "source",
+      "originalPath": "core/src/test/kotlin/lab/sf7b/core/EditorContractTest.kt",
+      "originalSha256": "c84a250db6445c9458ca2560d5b188a4b13ef40f54da138f6a13b4005d976619"
+    },
+    {
+      "path": "core/src/test/kotlin/lab/sf7b/core/GraphicsTest.kt",
+      "origin": "source",
+      "originalPath": "core/src/test/kotlin/lab/sf7b/core/GraphicsTest.kt",
+      "originalSha256": "cddba6e21496ac6d6b4e12e8a3c5e69a2f3d7bf169e42eda2327cceaf441e6b1"
+    },
+    {
+      "path": "core/src/test/kotlin/lab/sf7b/core/NodeRasterCacheTest.kt",
+      "origin": "source",
+      "originalPath": "core/src/test/kotlin/lab/sf7b/core/NodeRasterCacheTest.kt",
+      "originalSha256": "88db0348bec7406a44d96007dbe6a50744bab396e9881d3be5c3dcc25eaf53bc"
+    },
+    {
+      "path": "core/src/test/kotlin/lab/sf7b/core/ReferenceColorEffectsTest.kt",
+      "origin": "source",
+      "originalPath": "core/src/test/kotlin/lab/sf7b/core/ReferenceColorEffectsTest.kt",
+      "originalSha256": "eddacca0aeb5cd8a02ade2a9c2880e39c4399afdbc6218dd74698f5b10652651"
+    },
+    {
+      "path": "core/src/test/kotlin/lab/sf7b/core/ReferenceEffectsTest.kt",
+      "origin": "source",
+      "originalPath": "core/src/test/kotlin/lab/sf7b/core/ReferenceEffectsTest.kt",
+      "originalSha256": "e20c9ba306b645872ffead73bfa696c74f4244e126d3886090c33fc54363e594"
+    },
+    {
+      "path": "DESIGN.md",
+      "origin": "source",
+      "originalPath": "DESIGN.md",
+      "originalSha256": "ec04fe17b751302846969555485307e1f075eaa3c2765104b91e60d0999fde0c"
+    },
+    {
+      "path": "docs/notes_project_storage.md",
+      "origin": "source",
+      "originalPath": "docs/notes_project_storage.md",
+      "originalSha256": "bf6bd6a7a757500a025d07701e1cfbe008f31d1b5c72809b56efb58e04b3d31d"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.1-20261113-2021.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.1-20261113-2021.md",
+      "originalSha256": "25f322d74ffc6ad8fc74426a8ff87895190ed08dec98e39247fbfa90cc079b40"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.2-20261113-2030/attempt-1/mixed-preview-cache.csv",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.2-20261113-2030/attempt-1/mixed-preview-cache.csv",
+      "originalSha256": "4a1111c999d3fc88c120ffe5e344d88a4def4248b16506f5fd91b42d080b4801"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache-invalidation.csv",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache-invalidation.csv",
+      "originalSha256": "cb5050ba86684fda553cb88b27ebbda18c348b34bfd98b05a677958d5345b849"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache.csv",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache.csv",
+      "originalSha256": "f543cea36967c76ad9ff6e13f332a585dd514665d957ccfc7b8e7a1ac223256b"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "originalSha256": "360287876226a6722ade4916883811f6ddc01c652045c5c3caf25150db8f1f51"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "originalSha256": "a9fb201ad894865746f2cb25c5756978289661aa8059d77a4de22fc473ee6a8f"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.4-20261114-0108/gpu-chain-prefix-parity.csv",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.4-20261114-0108/gpu-chain-prefix-parity.csv",
+      "originalSha256": "939e72bef8b404618a1e2b190de0f399cba5005baafff51d3995a35168c34470"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.4-20261114-0108/model-full-export-performance.txt",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.4-20261114-0108/model-full-export-performance.txt",
+      "originalSha256": "cebe1068d8cba9108223f5f8304bbe9e55e96a98374b0b1fd9fd9ace88fb96b6"
+    },
+    {
+      "path": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "originalSha256": "df461f5d7286340b0b46fe7bdb1a5430a4dd0bfd1bb989c3eab41eca9d55c14c"
+    },
+    {
+      "path": "docs/verification/candidate11-artifacts-20261113-2010/androidTest-badging.txt",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-artifacts-20261113-2010/androidTest-badging.txt",
+      "originalSha256": "c8e8f56f873007f347dd0fa87aed85468bd5ee9513542274591b5ce3b2c11816"
+    },
+    {
+      "path": "docs/verification/candidate11-artifacts-20261113-2010/androidTest-manifest.txt",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-artifacts-20261113-2010/androidTest-manifest.txt",
+      "originalSha256": "582337de84433fe38ef58bcbd15d65653a59c7b410bc48891d99f6344a61e0c7"
+    },
+    {
+      "path": "docs/verification/candidate11-artifacts-20261113-2010/app-badging.txt",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-artifacts-20261113-2010/app-badging.txt",
+      "originalSha256": "de3c3a8a916bad7e904438463f01a70085b87657cb1765b5895bc5b4537057ad"
+    },
+    {
+      "path": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "originalSha256": "a541c95fc54c1b6e8bedc40020c335d1bd4316ea1620ef738cd3367b28785ba7"
+    },
+    {
+      "path": "docs/verification/candidate11-build-20261113-1953/lint/lint-results-debug.txt",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-build-20261113-1953/lint/lint-results-debug.txt",
+      "originalSha256": "64de3020978ede8d3927b1c3371c628904b498aeda24aaa7fff1fa691b2eff8d"
+    },
+    {
+      "path": "docs/verification/candidate11-build-20261113-1953.md",
+      "origin": "source",
+      "originalPath": "docs/verification/candidate11-build-20261113-1953.md",
+      "originalSha256": "738a6d453ddad697efd198bcabbc351b2f93068d85f09d6ba1f354afedef489d"
+    },
+    {
+      "path": "docs/verification/checkpoint-20261113-1945.md",
+      "origin": "source",
+      "originalPath": "docs/verification/checkpoint-20261113-1945.md",
+      "originalSha256": "04807c385753bf80dc259c59bcdd514991d86160e256128061c0daf98e639eed"
+    },
+    {
+      "path": "docs/verification/reference-task3.1-20261114.md",
+      "origin": "source",
+      "originalPath": "docs/verification/reference-task3.1-20261114.md",
+      "originalSha256": "698b32e76785a64f36d4e3164e0d661103de16099907e7f52b31482f24f46589"
+    },
+    {
+      "path": "docs/verification/reference-task3.2-20261114.md",
+      "origin": "source",
+      "originalPath": "docs/verification/reference-task3.2-20261114.md",
+      "originalSha256": "d863367f03b65dc9b21036f9d06b8c67e313d16406033287818d84f42390216e"
+    },
+    {
+      "path": "docs/verification/reference-task3.3-20261114.md",
+      "origin": "source",
+      "originalPath": "docs/verification/reference-task3.3-20261114.md",
+      "originalSha256": "3496cf2fbaaff666e548d5d42d0ba327845d455455a5304a67b551474334020e"
+    },
+    {
+      "path": "docs/verification/reference-task3.4-20261114.md",
+      "origin": "source",
+      "originalPath": "docs/verification/reference-task3.4-20261114.md",
+      "originalSha256": "b5f9b9040414759a7ed0d7a0af4a4253c2a54a21a11ff664ffb0e72ee2bdc9e0"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "origin": "source",
+      "originalPath": "gradle/wrapper/gradle-wrapper.jar",
+      "originalSha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "origin": "source",
+      "originalPath": "gradle/wrapper/gradle-wrapper.properties",
+      "originalSha256": "c0659359832051fbcd6d9acf91cd65250aa650e2114ba654de8b9a758ae02809"
+    },
+    {
+      "path": "gradle.properties",
+      "origin": "source",
+      "originalPath": "gradle.properties",
+      "originalSha256": "d1cab91fee5c4562063e052c2affc9302b9f20a7b63563b48ccea223c51050af"
+    },
+    {
+      "path": "gradlew",
+      "origin": "source",
+      "originalPath": "gradlew",
+      "originalSha256": "c76f16038b4e70b84ed0b3b9e08e82a8ecaf66ec0efdfdecdece92520fa3cecb"
+    },
+    {
+      "path": "gradlew.bat",
+      "origin": "source",
+      "originalPath": "gradlew.bat",
+      "originalSha256": "0f3ed8f03b50934cb8c48b15a470d5c20a30a5385825e48b55bcc8ea3d8f8e18"
+    },
+    {
+      "path": "PERFORMANCE.md",
+      "origin": "source",
+      "originalPath": "PERFORMANCE.md",
+      "originalSha256": "a59df2b9657f20dc39a2979975ddbdc2750f0f5998baaf3f3ee2763f554b47cd"
+    },
+    {
+      "path": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "origin": "source",
+      "originalPath": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "originalSha256": "9915a6a6682f9fe5dd649a5bf081be98eeffba88acc37a1eb5974f4c06b9be10"
+    },
+    {
+      "path": "PERFORMANCE_HISTORY_20261113.md",
+      "origin": "source",
+      "originalPath": "PERFORMANCE_HISTORY_20261113.md",
+      "originalSha256": "06157edbcebf8bb5f04222d9e8c484f0dc4e41699558e68d25c5b7c31b877b3d"
+    },
+    {
+      "path": "PERFORMANCE_RENDER.md",
+      "origin": "source",
+      "originalPath": "PERFORMANCE_RENDER.md",
+      "originalSha256": "2fed1cacf7c7570dd9ad29726c2212e14924eafa9c26041d302c40cb9743a9d6"
+    },
+    {
+      "path": "PROJECT_FORMAT.md",
+      "origin": "source",
+      "originalPath": "PROJECT_FORMAT.md",
+      "originalSha256": "a7568a34104aa5c0e06304a956fa89f8daa7993baf95ed21f5a7e695e858d56b"
+    },
+    {
+      "path": "README_RU.md",
+      "origin": "source",
+      "originalPath": "README_RU.md",
+      "originalSha256": "3be4907d8023b947e721ec7e169d271f9e0e11e4e109d1dc5a1152ae6aa1ab09"
+    },
+    {
+      "path": "REFERENCE_EFFECTS_IMPLEMENTATION.md",
+      "origin": "source",
+      "originalPath": "REFERENCE_EFFECTS_IMPLEMENTATION.md",
+      "originalSha256": "ae057825b6122833cf6e88330e8d792063aaf4ef76f7903667e3cc18006c824d"
+    },
+    {
+      "path": "REFERENCE_REQUEST.md",
+      "origin": "source",
+      "originalPath": "REFERENCE_REQUEST.md",
+      "originalSha256": "b97ec18cec8206f8ae7c8b9dbca20b53640d58b5251d5b4eba10e8bbe37b7d98"
+    },
+    {
+      "path": "REQUIREMENTS.md",
+      "origin": "source",
+      "originalPath": "REQUIREMENTS.md",
+      "originalSha256": "e766878d1d603478d5c77b32e49bdf219306aefdf11dfc1c7bea3c9c2c6e003f"
+    },
+    {
+      "path": "research/EFFECT_PARITY.md",
+      "origin": "source",
+      "originalPath": "research/EFFECT_PARITY.md",
+      "originalSha256": "4ef067d99110a5d47f5f94128d3f4d7ec1aa5cd1974b91a3d29851715d3f5994"
+    },
+    {
+      "path": "research/fixtures/sf7b-performance-2000.png",
+      "origin": "source",
+      "originalPath": "research/fixtures/sf7b-performance-2000.png",
+      "originalSha256": "628e1d0430bb8e0a82a4583cbdd58052453b7bd0dd63db61c683967056aa26ac"
+    },
+    {
+      "path": "research/fixtures/sf7b-reference-colors.png",
+      "origin": "source",
+      "originalPath": "research/fixtures/sf7b-reference-colors.png",
+      "originalSha256": "9cc58124826562481b34c945ecada90f2d7bd6f36a529270e58a3d6e8155b5f4"
+    },
+    {
+      "path": "research/fixtures/sf7b-reference-grid.png",
+      "origin": "source",
+      "originalPath": "research/fixtures/sf7b-reference-grid.png",
+      "originalSha256": "b197dfc7979afbf797eb268931baa7477b36f2b5c9600e27b8b2d1e95a31597b"
+    },
+    {
+      "path": "research/make-fixtures.mjs",
+      "origin": "source",
+      "originalPath": "research/make-fixtures.mjs",
+      "originalSha256": "5daf57f21e503857c2e4ab3c0f2340ea19946c4a9111722c86141b77face643d"
+    },
+    {
+      "path": "research/NEXT_COLOR_BEHAVIOR.md",
+      "origin": "source",
+      "originalPath": "research/NEXT_COLOR_BEHAVIOR.md",
+      "originalSha256": "3b446c79096c780fd529c2aa4c6696db50d70e2b7951a8971c537662e9edca0b"
+    },
+    {
+      "path": "research/PRIORITY_BEHAVIOR.md",
+      "origin": "source",
+      "originalPath": "research/PRIORITY_BEHAVIOR.md",
+      "originalSha256": "b4111528bf3bd74b654233d4da5ffb137414d76fc9180044823fcff02b959af8"
+    },
+    {
+      "path": "research/REA_FINDINGS.md",
+      "origin": "source",
+      "originalPath": "research/REA_FINDINGS.md",
+      "originalSha256": "d5a0ded346d6cff0f46db7dd783a236cd6d6b836fe2f646015442e3a1cdacac0"
+    },
+    {
+      "path": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "origin": "source",
+      "originalPath": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "originalSha256": "0c60b448b293b9f48efdb4235298a26c2c021b6e5a451b2d721d803b1a8790ac"
+    },
+    {
+      "path": "ROOT_CAUSES_RENDER.md",
+      "origin": "source",
+      "originalPath": "ROOT_CAUSES_RENDER.md",
+      "originalSha256": "0680be90dc7b0d27a0a7c63ef151abe34b335a30b953b2d0c19bf02eddbf9cb6"
+    },
+    {
+      "path": "ROOT_CAUSES_STORAGE.md",
+      "origin": "source",
+      "originalPath": "ROOT_CAUSES_STORAGE.md",
+      "originalSha256": "d89a5a98c5b15f6f0a93a8cd79c0643665f92d0f18afba080042b23327f749db"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "origin": "source",
+      "originalPath": "settings.gradle.kts",
+      "originalSha256": "b7df0de1afd52a5a62e3fb22eadbb3b47994f2080bd8f0274c67624d074c7afd"
+    },
+    {
+      "path": "TEST_REPORT.md",
+      "origin": "source",
+      "originalPath": "TEST_REPORT.md",
+      "originalSha256": "8a369c0c50961891f50cbccfa140295f1a5b31dedc9d070b913374b10e642ed2"
+    },
+    {
+      "path": "tools/ColorSnapshot.java",
+      "origin": "source",
+      "originalPath": "tools/ColorSnapshot.java",
+      "originalSha256": "5791917d67dfdd1f9a4481b34edaeb867d522f2fba3713f4f72bff2088521262"
+    },
+    {
+      "path": "tools/FieldSnapshot.java",
+      "origin": "source",
+      "originalPath": "tools/FieldSnapshot.java",
+      "originalSha256": "ef65329b99d11bed2aab30e94f927ac6e9cf2d8d49282cee782ede9430d27b77"
+    },
+    {
+      "path": "UI_PARITY.md",
+      "origin": "source",
+      "originalPath": "UI_PARITY.md",
+      "originalSha256": "66ffaa2c99f3710b8984bde747ff14b3ccb69ed8bda19ff758244b9fed65e4cb"
+    },
+    {
+      "path": ".gitattributes",
+      "origin": "desktop",
+      "originalPath": ".gitattributes",
+      "originalSha256": "82905d351a322a6b47ead6868e15073551d881b7596f858806cef08c555f1154"
+    },
+    {
+      "path": ".github/workflows/android.yml",
+      "origin": "desktop",
+      "originalPath": ".github/workflows/android.yml",
+      "originalSha256": "6662d00fa272aa62c0d4887bf9a91cdeaa01fce4f7d470e5c65b874819e79944"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "origin": "desktop",
+      "originalPath": "app/build.gradle.kts",
+      "originalSha256": "f498af327bd42cc6c4c6752de973c19cdcf68bea9fd202a291b88207d28b5424"
+    },
+    {
+      "path": "docs/CLEAN_ROOM.md",
+      "origin": "desktop",
+      "originalPath": "docs/CLEAN_ROOM.md",
+      "originalSha256": "de9eafe32bbbd70f872d742b6a87da3583668802be999f68082b345892c6a618"
+    },
+    {
+      "path": "docs/CONTEXT.md",
+      "origin": "desktop",
+      "originalPath": "docs/CONTEXT.md",
+      "originalSha256": "dd6ec9a969dcfcced7f0e08bb39f553f0fcbc40d9d82531f3e4f600b96c6d665"
+    },
+    {
+      "path": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "origin": "desktop",
+      "originalPath": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "originalSha256": "bd03dce15bfa01bdd7b1b087796a111730c2548d875cc74928f784f177c5303f"
+    },
+    {
+      "path": "docs/history/STATE_2026-11-13_0838.md",
+      "origin": "desktop",
+      "originalPath": "docs/history/STATE_2026-11-13_0838.md",
+      "originalSha256": "ee3639424d4ad497773e7eb24480752c75c638b7afeb9dce3e6718f9af443853"
+    },
+    {
+      "path": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "origin": "desktop",
+      "originalPath": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "originalSha256": "7fd6225b391e49f8e99358d6b26d076ebcc2f92fcee1935c07125a5576074828"
+    },
+    {
+      "path": "docs/notes_render_import.md",
+      "origin": "desktop",
+      "originalPath": "docs/notes_render_import.md",
+      "originalSha256": "e708e31f28a4fff9c31dc067cba64197e99dac4ec30aed21201d426c1d3f2bbb"
+    },
+    {
+      "path": "docs/notes_review_prompt.md",
+      "origin": "desktop",
+      "originalPath": "docs/notes_review_prompt.md",
+      "originalSha256": "1a5bb37d5a3ff761ea10978c89e6cd6ca8a4ac87546b70e8819e6c86f137de11"
+    },
+    {
+      "path": "docs/rea-rebuild/PROMPT.md",
+      "origin": "desktop",
+      "originalPath": "docs/rea-rebuild/PROMPT.md",
+      "originalSha256": "b4f578ccfdac71f9a6e7ad1fab937d5243860f1350490e8f8ea8a1b5eeae8321"
+    },
+    {
+      "path": "docs/rea-rebuild/SPEC.md",
+      "origin": "desktop",
+      "originalPath": "docs/rea-rebuild/SPEC.md",
+      "originalSha256": "da283919f07c941676ed941266f4e35cd6537662930423a799788d932091198d"
+    },
+    {
+      "path": "docs/WORKFLOW.md",
+      "origin": "desktop",
+      "originalPath": "docs/WORKFLOW.md",
+      "originalSha256": "e13f4d837b69799e6f431e49077c5fefb5680e60a5e9f320a949cba5789c6773"
+    },
+    {
+      "path": "openspec/changes/archive/.gitkeep",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/archive/.gitkeep",
+      "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/.openspec.yaml",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/.openspec.yaml",
+      "originalSha256": "3ea192d12c1ad3d96d8e6cfd6fddb23c8be77d85611385996b685b4736c117c0"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/design.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/design.md",
+      "originalSha256": "cc11f0ec054169ddb114f61c7bb656c4eeec1ecf5b923facd8eaecb53bc0bb91"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/proposal.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/proposal.md",
+      "originalSha256": "51b5b82394bc14193981cc124a65a79b610bd0aa2e310fd295ed4cddb3d8d88d"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/specs/editable-image-document/spec.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/specs/editable-image-document/spec.md",
+      "originalSha256": "dcc9cae0733574ad9d27dd699681cea4eab67fae83f05e8e23edd1fb7f47e4c7"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/specs/procedural-animation/spec.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/specs/procedural-animation/spec.md",
+      "originalSha256": "175fb097f152b845753bd4052e89dbe8fff480264100ff9b077071fcd6dac224"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/specs/reference-feature-coverage/spec.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/specs/reference-feature-coverage/spec.md",
+      "originalSha256": "f6c9b87bdcd2166e861918c3ac7cda84e9d37569a5736666ed9b57d997dc5871"
+    },
+    {
+      "path": "openspec/changes/complete-dual-app-functionality/tasks.md",
+      "origin": "desktop",
+      "originalPath": "openspec/changes/complete-dual-app-functionality/tasks.md",
+      "originalSha256": "f19fd84182b3da15821d9a32ff9f92219cbb893d4752ddd34c2d3b69a34531ce"
+    },
+    {
+      "path": "openspec/config.yaml",
+      "origin": "desktop",
+      "originalPath": "openspec/config.yaml",
+      "originalSha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c"
+    },
+    {
+      "path": "openspec/specs/.gitkeep",
+      "origin": "desktop",
+      "originalPath": "openspec/specs/.gitkeep",
+      "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tools/build-local.ps1",
+      "origin": "desktop",
+      "originalPath": "tools/build-local.ps1",
+      "originalSha256": "6e5d8253bfa6e0c062e9f920a8f3d4c223f0dc29917ac61731ea4a7bc338e3fb"
+    },
+    {
+      "path": "tools/cloud/setup.sh",
+      "origin": "desktop",
+      "originalPath": "tools/cloud/setup.sh",
+      "originalSha256": "99cff73cefadeebe641e3201a60e4dd712e4cd3d778a812eadf39622b0c5347c"
+    },
+    {
+      "path": "tools/cloud/verify.sh",
+      "origin": "desktop",
+      "originalPath": "tools/cloud/verify.sh",
+      "originalSha256": "f60338d80c02cef7267481bc2e4fcb1295b5f0a659e17dc71d3b8437f40ae1dd"
+    },
+    {
+      "path": "tools/setup-android.ps1",
+      "origin": "desktop",
+      "originalPath": "tools/setup-android.ps1",
+      "originalSha256": "8dbcb0741c181b5eba58ea1da64156b30adcab555ad1e8130f874f6de8a676cc"
+    },
+    {
+      "path": "docs/history/DESKTOP_STATE_20261115.md",
+      "origin": "desktop",
+      "originalPath": "STATE.md",
+      "originalSha256": "b95f1ebc7718cce71eefd710a0b6cc5e9c96199948912d567ec732c16fe0e88b"
+    },
+    {
+      "path": "docs/history/SOURCE_STATE_20261115.md",
+      "origin": "source",
+      "originalPath": "STATE.md",
+      "originalSha256": "f4bc6209851a6f8959ec087adbe2f974a3d40e7edfe9731e198f990f6eea06c7"
+    },
+    {
+      "path": "docs/history/DESKTOP_NOTES_20261115.md",
+      "origin": "desktop",
+      "originalPath": "notes.md",
+      "originalSha256": "314194672e8308c64b89b3c32ece2d19a6f89685850eaa9a7fa976b5eca4337a"
+    },
+    {
+      "path": "docs/history/SOURCE_NOTES_20261115.md",
+      "origin": "source",
+      "originalPath": "notes.md",
+      "originalSha256": "e9e72e7ad63a9ed6ba1cb2bd7a3c3a218e5af2b0778734bf0929ced53762eb76"
+    }
+  ]
+}

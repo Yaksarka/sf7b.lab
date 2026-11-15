@@ -1,0 +1,5 @@
+backend=GPU
+size=2000x2000
+alpha=128
+elapsed_ms=3225
+Model export including queue wait, original load, rendering, PNG and file URI delivery; excludes system picker; one run, not median.

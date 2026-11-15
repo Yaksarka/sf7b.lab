@@ -1,0 +1,4 @@
+phase,document_size,preview_size,layers,milliseconds,image_provider_calls,text_raster_calls,cache_hits,cache_misses,scope
+cold_graph_and_decode,2000x2000,512x512,15,15408.530912,3,4,0,31,single-run-debug-not-median-not-original-parity
+upper_blend_edit_warm_cache,2000x2000,512x512,15,218.774653,0,0,2,1,single-run-debug-not-median-not-original-parity
+uncached_graph_warm_decode,2000x2000,512x512,15,11381.318876,3,4,0,0,single-run-debug-not-median-not-original-parity

@@ -1,0 +1,1650 @@
+{
+  "note": "Unavailable original evidence and documents are retained as text references, not broken links.",
+  "links": [
+    {
+      "file": "AGENTS.md",
+      "label": "STATE.md",
+      "target": "STATE.md"
+    },
+    {
+      "file": "AGENTS.md",
+      "label": "контекст",
+      "target": "docs/CONTEXT.md"
+    },
+    {
+      "file": "AGENTS.md",
+      "label": "handoff",
+      "target": "docs/AI_HANDOFF.md"
+    },
+    {
+      "file": "AGENTS.md",
+      "label": "режим исследования",
+      "target": "docs/CLEAN_ROOM.md"
+    },
+    {
+      "file": "AGENTS.md",
+      "label": "порядок работы",
+      "target": "docs/WORKFLOW.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "AGENTS",
+      "target": "../AGENTS.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "STATE",
+      "target": "../STATE.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "требования",
+      "target": "../REQUIREMENTS.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "OpenSpec",
+      "target": "../openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "DESIGN",
+      "target": "../DESIGN.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "PROJECT_FORMAT",
+      "target": "../PROJECT_FORMAT.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "TEST_REPORT",
+      "target": "../TEST_REPORT.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "PERFORMANCE",
+      "target": "../PERFORMANCE.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "PRIVATE_MATERIALS",
+      "target": "PRIVATE_MATERIALS.md"
+    },
+    {
+      "file": "docs/AI_HANDOFF.md",
+      "label": "NEXT_AI_PROMPT",
+      "target": "NEXT_AI_PROMPT.md"
+    },
+    {
+      "file": "docs/CONTEXT.md",
+      "label": "AGENTS",
+      "target": "../AGENTS.md"
+    },
+    {
+      "file": "docs/CONTEXT.md",
+      "label": "STATE",
+      "target": "../STATE.md"
+    },
+    {
+      "file": "docs/CONTEXT.md",
+      "label": "AI_HANDOFF",
+      "target": "AI_HANDOFF.md"
+    },
+    {
+      "file": "docs/CONTEXT.md",
+      "label": "план",
+      "target": "../openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "docs/CONTEXT.md",
+      "label": "validation",
+      "target": "verification/MIGRATION_VALIDATION.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "PROMPT",
+      "target": "docs/rea-rebuild/PROMPT.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "SPEC",
+      "target": "docs/rea-rebuild/SPEC.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "STATE.md",
+      "target": "STATE.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "docs/CONTEXT.md",
+      "target": "docs/CONTEXT.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "план",
+      "target": "openspec/changes/complete-dual-app-functionality/design.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "задачи",
+      "target": "openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "отчёт3.1",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "REGISTRY_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "Отчёт и точные команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "SCHEMA_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "Контракты",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "отчёт и команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_NOTES_20261115.md",
+      "label": "17 passed host checks",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "SCHEMA_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Контракты",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "отчёт и команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "17 passed host checks",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "REGISTRY_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт и точные команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "TEST_REPORT",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "PERFORMANCE",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Локальный аудит доказательств",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт2.4/команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON/SHA",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "даты снимков",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "обзор",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт2.3/точные команды",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON/SHA",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048/result.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON/SHA/оба запуска",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030/result.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт 2.1",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON/связь с SHA",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021/result.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Манифест1.4",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.manifest.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "SHA256SUMS",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.sha256"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "отчёт",
+      "target": "docs/verification/candidate11-artifacts-20261113-2010.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт1.3",
+      "target": "docs/verification/candidate11-build-20261113-1953.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON результатов",
+      "target": "docs/verification/candidate11-build-20261113-1953/result.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "run metadata/команда",
+      "target": "docs/verification/candidate11-build-20261113-1953-run.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "Отчёт и порядок восстановления",
+      "target": "docs/verification/checkpoint-20261113-1945.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "JSON с полными SHA/агрегатами",
+      "target": "docs/verification/checkpoint-20261113-1945.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "tasks",
+      "target": "openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "environment manifest",
+      "target": "docs/verification/environment-20261113-1940.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "свежие REA Evidence",
+      "target": "docs/verification/environment-20261113-1940-rea.json"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "план",
+      "target": "openspec/changes/complete-dual-app-functionality/design.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "задачи",
+      "target": "openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "notes.md",
+      "target": "notes.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "docs/CONTEXT.md",
+      "target": "docs/CONTEXT.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "PROMPT",
+      "target": "docs/rea-rebuild/PROMPT.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "SPEC",
+      "target": "docs/rea-rebuild/SPEC.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "UI_PARITY.md",
+      "target": "UI_PARITY.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "PERFORMANCE.md",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "docs/history/DESKTOP_STATE_20261115.md",
+      "label": "история",
+      "target": "docs/history/STATE_2026-11-13_0838.md"
+    },
+    {
+      "file": "docs/history/SOURCE_NOTES_20261115.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/SOURCE_NOTES_20261115.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "SCHEMA_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Контракты",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "отчёт и команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "17 passed host checks",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "REGISTRY_COVERAGE.json",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт и точные команды",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "STATE",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "notes",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт и команды",
+      "target": "docs/verification/reference-task3.1-20261114.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "варианты/происхождение",
+      "target": "docs/verification/reference-task3.1-20261114/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "аудит",
+      "target": "docs/verification/reference-task3.1-20261114/evidence-audit.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "manifest",
+      "target": "docs/verification/reference-task3.1-20261114/manifest.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "TEST_REPORT",
+      "target": "TEST_REPORT.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "PERFORMANCE",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "архиве",
+      "target": "PERFORMANCE_CANDIDATE10_20261113.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Аудит доказательств",
+      "target": "docs/verification/candidate11-task2.5-evidence-audit-20261114.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт2.4",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "снимки/даты",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/capture-manifest.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт2.3",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "отчёте2.1",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "App APK",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.apk"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Test APK",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-tests.apk"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Манифест19evidence SHA",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.manifest.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "SHA256SUMS",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.sha256"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "отчёт1.4",
+      "target": "docs/verification/candidate11-artifacts-20261113-2010.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт1.3",
+      "target": "docs/verification/candidate11-build-20261113-1953.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "JSON результатов",
+      "target": "docs/verification/candidate11-build-20261113-1953/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "команда/время",
+      "target": "docs/verification/candidate11-build-20261113-1953-run.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "STATE.md",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "notes.md",
+      "target": "<local-path>"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "Отчёт/восстановление1.2",
+      "target": "docs/verification/checkpoint-20261113-1945.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "SHA/агрегаты",
+      "target": "docs/verification/checkpoint-20261113-1945.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_20261115.md",
+      "label": "manifest",
+      "target": "docs/verification/environment-20261113-1940.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Отчёт2.3",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "STATE",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "notes",
+      "target": "../../notes.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Отчёт2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "отчёте2.1",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "JSON",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "App APK",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.apk"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Test APK",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-tests.apk"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Манифест19evidence SHA",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.manifest.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "SHA256SUMS",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.sha256"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "отчёт1.4",
+      "target": "docs/verification/candidate11-artifacts-20261113-2010.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Отчёт1.3",
+      "target": "docs/verification/candidate11-build-20261113-1953.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "JSON результатов",
+      "target": "docs/verification/candidate11-build-20261113-1953/result.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "команда/время",
+      "target": "docs/verification/candidate11-build-20261113-1953-run.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "notes.md",
+      "target": "../../notes.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "Отчёт/восстановление1.2",
+      "target": "docs/verification/checkpoint-20261113-1945.md"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "SHA/агрегаты",
+      "target": "docs/verification/checkpoint-20261113-1945.json"
+    },
+    {
+      "file": "docs/history/SOURCE_STATE_before_cloud_2026-11-14.md",
+      "label": "manifest",
+      "target": "docs/verification/environment-20261113-1940.json"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "PROMPT",
+      "target": "docs/rea-rebuild/PROMPT.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "SPEC",
+      "target": "docs/rea-rebuild/SPEC.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "notes.md",
+      "target": "notes.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "CONTEXT",
+      "target": "docs/CONTEXT.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_0838.md",
+      "label": "истории",
+      "target": "docs/history/STATE_2026-11-13_early-rebuild.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "AGENTS.md",
+      "target": "../../AGENTS.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "запускающий промпт",
+      "target": "docs/rea-rebuild/PROMPT.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "подробное ТЗ",
+      "target": "docs/rea-rebuild/SPEC.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "AGENTS.md",
+      "target": "AGENTS.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "контекст",
+      "target": "docs/CONTEXT.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "порядок работы",
+      "target": "docs/WORKFLOW.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "чистая комната",
+      "target": "docs/CLEAN_ROOM.md"
+    },
+    {
+      "file": "docs/history/STATE_2026-11-13_early-rebuild.md",
+      "label": "REQUIREMENTS.md",
+      "target": "REQUIREMENTS.md"
+    },
+    {
+      "file": "docs/MIGRATION.md",
+      "label": "Source manifest",
+      "target": "verification/migration-20261115/source-manifest.json"
+    },
+    {
+      "file": "docs/MIGRATION.md",
+      "label": "PRIVATE_MATERIALS",
+      "target": "PRIVATE_MATERIALS.md"
+    },
+    {
+      "file": "docs/MIGRATION.md",
+      "label": "SIGNING",
+      "target": "SIGNING.md"
+    },
+    {
+      "file": "docs/PRIVATE_MATERIALS.md",
+      "label": "SIGNING",
+      "target": "SIGNING.md"
+    },
+    {
+      "file": "docs/rea-rebuild/PROMPT.md",
+      "label": "подробному ТЗ",
+      "target": "SPEC.md"
+    },
+    {
+      "file": "docs/rea-rebuild/PROMPT.md",
+      "label": "STATE.md",
+      "target": "../../STATE.md"
+    },
+    {
+      "file": "docs/rea-rebuild/SPEC.md",
+      "label": "PROMPT.md",
+      "target": "PROMPT.md"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.1-20261113-2021.md",
+      "label": "Результаты и SHA доказательств",
+      "target": "candidate11-a51-task2.1-20261113-2021/result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.1-20261113-2021.md",
+      "label": "instrumentation",
+      "target": "candidate11-a51-task2.1-20261113-2021/instrumentation.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.1-20261113-2021.md",
+      "label": "отчёт устройства",
+      "target": "candidate11-a51-task2.1-20261113-2021/mixed-document-15-layers.txt"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "Результаты, метрики и SHA",
+      "target": "candidate11-a51-task2.2-20261113-2030/result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "успешный instrumentation",
+      "target": "candidate11-a51-task2.2-20261113-2030/instrumentation.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "15 слоёв",
+      "target": "candidate11-a51-task2.2-20261113-2030/mixed-preview-cache.csv"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "source/mask/early effect",
+      "target": "candidate11-a51-task2.2-20261113-2030/mixed-preview-cache-invalidation.csv"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "изменение теста",
+      "target": "candidate11-a51-task2.2-20261113-2030/test-change.patch"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "Первый запуск",
+      "target": "candidate11-a51-task2.2-20261113-2030/attempt-1/instrumentation.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.2-20261113-2030.md",
+      "label": "Манифест APK",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-cache-contract-tests-v2.manifest.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "label": "Результаты/SHA",
+      "target": "candidate11-a51-task2.3-20261113-2048/result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "label": "native log",
+      "target": "candidate11-a51-task2.3-20261113-2048/instrumentation.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "label": "три core contracts",
+      "target": "candidate11-a51-task2.3-20261113-2048/core-results.xml"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "label": "core run",
+      "target": "candidate11-a51-task2.3-20261113-2048/core-run.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.3-20261113-2048.md",
+      "label": "очистка тестового индекса",
+      "target": "candidate11-a51-task2.3-20261113-2048/test-cleanup-result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "Результаты/SHA",
+      "target": "candidate11-a51-task2.4-20261114-0108/result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "итоговый native log",
+      "target": "candidate11-a51-task2.4-20261114-0108/instrumentation.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "манифест снимков с датами/сборкой",
+      "target": "candidate11-a51-task2.4-20261114-0108/capture-manifest.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "контактный лист",
+      "target": "candidate11-a51-task2.4-20261114-0108/contact-sheet.png"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "sf7b-lab-0.2.0-candidate11-ui-capture-tests.apk",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-ui-capture-tests.apk"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "Манифест APK",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-ui-capture-tests.manifest.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "Журнал",
+      "target": "candidate11-a51-task2.4-20261114-0108/test-apk-build.log"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "metadata",
+      "target": "candidate11-a51-task2.4-20261114-0108/build-result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "delta теста",
+      "target": "candidate11-a51-task2.4-20261114-0108/test-capture-change.patch"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "GPU chain CSV",
+      "target": "candidate11-a51-task2.4-20261114-0108/gpu-chain-prefix-parity.csv"
+    },
+    {
+      "file": "docs/verification/candidate11-a51-task2.4-20261114-0108.md",
+      "label": "Model export report",
+      "target": "candidate11-a51-task2.4-20261114-0108/model-full-export-performance.txt"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "candidate11.apk",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11.apk"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "candidate11-tests.apk",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-tests.apk"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "Манифест сборки/артефактов",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11.manifest.json"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "SHA256SUMS",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11.sha256"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "app PEM",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-cert.pem"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "test PEM",
+      "target": "../../artifacts/sf7b-lab-0.2.0-candidate11-tests-cert.pem"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "app signature",
+      "target": "candidate11-artifacts-20261113-2010/app-signature.txt"
+    },
+    {
+      "file": "docs/verification/candidate11-artifacts-20261113-2010.md",
+      "label": "test signature",
+      "target": "candidate11-artifacts-20261113-2010/androidTest-signature.txt"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "Точная команда и время процесса",
+      "target": "candidate11-build-20261113-1953-run.json"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "Сохранённый полный журнал",
+      "target": "candidate11-build-20261113-1953/build.log"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "Проверенные результаты JSON",
+      "target": "candidate11-build-20261113-1953/result.json"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "Свежий Lint HTML",
+      "target": "candidate11-build-20261113-1953/lint/lint-results-debug.html"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "XML",
+      "target": "candidate11-build-20261113-1953/lint/lint-results-debug.xml"
+    },
+    {
+      "file": "docs/verification/candidate11-build-20261113-1953.md",
+      "label": "TXT",
+      "target": "candidate11-build-20261113-1953/lint/lint-results-debug.txt"
+    },
+    {
+      "file": "docs/verification/checkpoint-20261113-1945.md",
+      "label": "Машиночитаемый отчёт",
+      "target": "checkpoint-20261113-1945.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.1-20261114.md",
+      "label": "аудите",
+      "target": "reference-task3.1-20261114/evidence-audit.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.1-20261114.md",
+      "label": "Машинный аудит",
+      "target": "reference-task3.1-20261114/evidence-audit.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.1-20261114.md",
+      "label": "result.json",
+      "target": "reference-task3.1-20261114/result.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.1-20261114.md",
+      "label": "evidence-audit.json",
+      "target": "reference-task3.1-20261114/evidence-audit.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.1-20261114.md",
+      "label": "manifest.json",
+      "target": "reference-task3.1-20261114/manifest.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.2-20261114.md",
+      "label": "REGISTRY_COVERAGE.json",
+      "target": "../../research/REGISTRY_COVERAGE.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.2-20261114.md",
+      "label": "UNRESOLVED_REGISTRATIONS.json",
+      "target": "../../research/UNRESOLVED_REGISTRATIONS.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.2-20261114.md",
+      "label": "result.json",
+      "target": "reference-task3.2-20261114/result.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.2-20261114.md",
+      "label": "Java/DEX comparison",
+      "target": "reference-task3.2-20261114/java-dex-check.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.2-20261114.md",
+      "label": "SHA manifest",
+      "target": "reference-task3.2-20261114/manifest.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.3-20261114.md",
+      "label": "Coverage",
+      "target": "../../research/SCHEMA_COVERAGE.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.3-20261114.md",
+      "label": "поведенческие контракты",
+      "target": "../../research/SCHEMA_BEHAVIOR_CONTRACTS.md"
+    },
+    {
+      "file": "docs/verification/reference-task3.3-20261114.md",
+      "label": "JSON контрактов",
+      "target": "../../research/SCHEMA_BEHAVIOR_CONTRACTS.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.3-20261114.md",
+      "label": "результаты проверок",
+      "target": "reference-task3.3-20261114/result.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.4-20261114.md",
+      "label": "Машинный coverage",
+      "target": "../../research/RUNTIME_ROUTE_COVERAGE.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.4-20261114.md",
+      "label": "статические регистрации",
+      "target": "../../research/REGISTRY_COVERAGE.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.4-20261114.md",
+      "label": "схемы",
+      "target": "../../research/SCHEMA_COVERAGE.json"
+    },
+    {
+      "file": "docs/verification/reference-task3.4-20261114.md",
+      "label": "предыдущий отчёт3.3",
+      "target": "reference-task3.3-20261114.md"
+    },
+    {
+      "file": "notes.md",
+      "label": "Desktop",
+      "target": "docs/history/DESKTOP_NOTES_20261115.md"
+    },
+    {
+      "file": "notes.md",
+      "label": "Source",
+      "target": "docs/history/SOURCE_NOTES_20261115.md"
+    },
+    {
+      "file": "notes.md",
+      "label": "MIGRATION_VALIDATION",
+      "target": "docs/verification/MIGRATION_VALIDATION.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/design.md",
+      "label": "AGENTS",
+      "target": "../../../AGENTS.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/design.md",
+      "label": "STATE",
+      "target": "../../../STATE.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/design.md",
+      "label": "AGENTS.md",
+      "target": "../../../AGENTS.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/design.md",
+      "label": "proposal",
+      "target": "proposal.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/proposal.md",
+      "label": "AGENTS",
+      "target": "../../../AGENTS.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/proposal.md",
+      "label": "STATE",
+      "target": "../../../STATE.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/proposal.md",
+      "label": "AGENTS.md",
+      "target": "../../../AGENTS.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/tasks.md",
+      "label": "AGENTS",
+      "target": "../../../AGENTS.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/tasks.md",
+      "label": "STATE",
+      "target": "../../../STATE.md"
+    },
+    {
+      "file": "openspec/changes/complete-dual-app-functionality/tasks.md",
+      "label": "design.md",
+      "target": "design.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "TEST_REPORT",
+      "target": "TEST_REPORT.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "CSV2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache.csv"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "CSV контрактов2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030/mixed-preview-cache-invalidation.csv"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "Отчёт2.1",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "model export2.4",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/model-full-export-performance.txt"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "7chain prefixes2000×64",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/gpu-chain-prefix-parity.csv"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "PERFORMANCE_CANDIDATE10_20261113",
+      "target": "PERFORMANCE_CANDIDATE10_20261113.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "Более ранняя история",
+      "target": "PERFORMANCE_HISTORY_20261113.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "Windows RAM/tiled",
+      "target": "PERFORMANCE_RENDER.md"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "аудит доказательств2.5",
+      "target": "docs/verification/candidate11-task2.5-evidence-audit-20261114.json"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "label": "STATE",
+      "target": "STATE.md"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "8",
+      "target": "research/runtime/device-performance-candidate8.csv"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "9",
+      "target": "research/runtime/device-performance-candidate9.csv"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "10 GPU",
+      "target": "research/runtime/device-performance-candidate10-gpu.csv"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "10 summary",
+      "target": "research/runtime/device-performance-candidate10-gpu-summary.txt"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "Model10",
+      "target": "research/runtime/model-full-export-candidate10.txt"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "Отчёт",
+      "target": "research/runtime/preview-cache-performance-candidate6b.txt"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "архив",
+      "target": "PERFORMANCE_HISTORY_20261113.md"
+    },
+    {
+      "file": "PERFORMANCE_CANDIDATE10_20261113.md",
+      "label": "RAM/tiled результаты",
+      "target": "PERFORMANCE_RENDER.md"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "CSV",
+      "target": "research/runtime/device-performance-candidate4.csv"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "summary",
+      "target": "research/runtime/device-performance-candidate4-summary.txt"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "CSV",
+      "target": "research/runtime/device-performance-candidate5.csv"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "summary",
+      "target": "research/runtime/device-performance-candidate5-summary.txt"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "Отчёт",
+      "target": "research/runtime/preview-cache-performance-candidate6b.txt"
+    },
+    {
+      "file": "PERFORMANCE_HISTORY_20261113.md",
+      "label": "PERFORMANCE_RENDER.md",
+      "target": "PERFORMANCE_RENDER.md"
+    },
+    {
+      "file": "PERFORMANCE_RENDER.md",
+      "label": "PERFORMANCE.md",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "README.md",
+      "label": "AGENTS.md",
+      "target": "AGENTS.md"
+    },
+    {
+      "file": "README.md",
+      "label": "STATE.md",
+      "target": "STATE.md"
+    },
+    {
+      "file": "README.md",
+      "label": "AI_HANDOFF",
+      "target": "docs/AI_HANDOFF.md"
+    },
+    {
+      "file": "README.md",
+      "label": "проверка",
+      "target": "docs/verification/MIGRATION_VALIDATION.md"
+    },
+    {
+      "file": "README.md",
+      "label": "SIGNING.md",
+      "target": "docs/SIGNING.md"
+    },
+    {
+      "file": "README.md",
+      "label": "Инструкция редактора",
+      "target": "README_RU.md"
+    },
+    {
+      "file": "README.md",
+      "label": "требования",
+      "target": "REQUIREMENTS.md"
+    },
+    {
+      "file": "README.md",
+      "label": "архитектура",
+      "target": "DESIGN.md"
+    },
+    {
+      "file": "README.md",
+      "label": "формат проекта",
+      "target": "PROJECT_FORMAT.md"
+    },
+    {
+      "file": "README.md",
+      "label": "Исторические проверки",
+      "target": "TEST_REPORT.md"
+    },
+    {
+      "file": "README.md",
+      "label": "производительность",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "README.md",
+      "label": "ограничения перенесённых доказательств",
+      "target": "docs/PRIVATE_MATERIALS.md"
+    },
+    {
+      "file": "README.md",
+      "label": "OpenSpec: 43 задачи",
+      "target": "openspec/changes/complete-dual-app-functionality/tasks.md"
+    },
+    {
+      "file": "README.md",
+      "label": "Перенос, доступ другого аккаунта и ИИ",
+      "target": "docs/MIGRATION.md"
+    },
+    {
+      "file": "README.md",
+      "label": "стартовый промпт",
+      "target": "docs/NEXT_AI_PROMPT.md"
+    },
+    {
+      "file": "README_RU.md",
+      "label": "README.md",
+      "target": "README.md"
+    },
+    {
+      "file": "README_RU.md",
+      "label": "STATE",
+      "target": "STATE.md"
+    },
+    {
+      "file": "README_RU.md",
+      "label": "SIGNING",
+      "target": "docs/SIGNING.md"
+    },
+    {
+      "file": "research/EFFECT_PARITY.md",
+      "label": "PRIORITY_BEHAVIOR.md",
+      "target": "PRIORITY_BEHAVIOR.md"
+    },
+    {
+      "file": "research/EFFECT_PARITY.md",
+      "label": "REA_FINDINGS.md",
+      "target": "REA_FINDINGS.md"
+    },
+    {
+      "file": "research/EFFECT_PARITY.md",
+      "label": "EFFECTS_CATALOG.json",
+      "target": "EFFECTS_CATALOG.json"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "строки",
+      "target": "raw/onelab-classes.dex.strings.json"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "классы и инструкции",
+      "target": "raw/onelab-classes.dex.classes.json"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "методы приоритетов",
+      "target": "raw/glitch-priority-dex-summary.json"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "регистры и вызовы конструкторов",
+      "target": "raw/glitch-priority-ctor-readable.txt"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "классы",
+      "target": "raw/glitch-classes3.dex.classes.json"
+    },
+    {
+      "file": "research/PRIORITY_BEHAVIOR.md",
+      "label": "выбранные GLSL",
+      "target": "raw/glitch-shaders/"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "REGISTRY_COVERAGE.json",
+      "target": "REGISTRY_COVERAGE.json"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "список неизвестных",
+      "target": "UNRESOLVED_REGISTRATIONS.json"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "отчёт и ограничения",
+      "target": "../docs/verification/reference-task3.2-20261114.md"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "Отчёт",
+      "target": "../docs/verification/reference-task3.1-20261114.md"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "варианты/подписи/ограничения",
+      "target": "../docs/verification/reference-task3.1-20261114/result.json"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "аудит",
+      "target": "../docs/verification/reference-task3.1-20261114/evidence-audit.json"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "EFFECTS_CATALOG.json",
+      "target": "EFFECTS_CATALOG.json"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "поведенческую спецификацию",
+      "target": "PRIORITY_BEHAVIOR.md"
+    },
+    {
+      "file": "research/REA_FINDINGS.md",
+      "label": "паритет",
+      "target": "EFFECT_PARITY.md"
+    },
+    {
+      "file": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "label": "SCHEMA_COVERAGE.json",
+      "target": "SCHEMA_COVERAGE.json"
+    },
+    {
+      "file": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "label": "контракты",
+      "target": "SCHEMA_BEHAVIOR_CONTRACTS.json"
+    },
+    {
+      "file": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "label": "SCHEMA_COVERAGE_BEFORE_TASK3_3.json",
+      "target": "SCHEMA_COVERAGE_BEFORE_TASK3_3.json"
+    },
+    {
+      "file": "research/SCHEMA_BEHAVIOR_CONTRACTS.md",
+      "label": "отчёт",
+      "target": "../docs/verification/reference-task3.3-20261114.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "TEST_REPORT",
+      "target": "TEST_REPORT.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "PERFORMANCE",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "MIGRATION_VALIDATION",
+      "target": "docs/verification/MIGRATION_VALIDATION.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "MIGRATION",
+      "target": "docs/MIGRATION.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "manifest",
+      "target": "docs/verification/migration-20261115/source-manifest.json"
+    },
+    {
+      "file": "STATE.md",
+      "label": "Desktop STATE",
+      "target": "docs/history/DESKTOP_STATE_20261115.md"
+    },
+    {
+      "file": "STATE.md",
+      "label": "Source STATE",
+      "target": "docs/history/SOURCE_STATE_20261115.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "candidate11-tests",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-tests.apk"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "cache-contract-tests-v2",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-cache-contract-tests-v2.apk"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "ui-capture-tests",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-ui-capture-tests.apk"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "Манифест 1.4",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11.manifest.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "cache-манифест",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-cache-contract-tests-v2.manifest.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "UI-манифест",
+      "target": "artifacts/sf7b-lab-0.2.0-candidate11-ui-capture-tests.manifest.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "1.3",
+      "target": "docs/verification/candidate11-build-20261113-1953.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "2.1",
+      "target": "docs/verification/candidate11-a51-task2.1-20261113-2021.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "2.2",
+      "target": "docs/verification/candidate11-a51-task2.2-20261113-2030.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "2.3",
+      "target": "docs/verification/candidate11-a51-task2.3-20261113-2048.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "2.4",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "result1.3",
+      "target": "docs/verification/candidate11-build-20261113-1953/result.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "Манифест дат/SHA/producer",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/capture-manifest.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "контактный лист",
+      "target": "docs/verification/candidate11-a51-task2.4-20261114-0108/contact-sheet.png"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "PERFORMANCE",
+      "target": "PERFORMANCE.md"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "аудит доказательств",
+      "target": "docs/verification/candidate11-task2.5-evidence-audit-20261114.json"
+    },
+    {
+      "file": "TEST_REPORT.md",
+      "label": "STATE",
+      "target": "STATE.md"
+    },
+    {
+      "file": "UI_PARITY.md",
+      "label": "экран",
+      "target": "research/runtime/onelab-initial/screen.png"
+    },
+    {
+      "file": "UI_PARITY.md",
+      "label": "Собственный fixture загружен",
+      "target": "research/runtime/onelab-fixture-confirmed/screen.png"
+    },
+    {
+      "file": "UI_PARITY.md",
+      "label": "Source edit",
+      "target": "research/runtime/onelab-source-edit/screen.png"
+    },
+    {
+      "file": "UI_PARITY.md",
+      "label": "Break / Disintegrate",
+      "target": "research/runtime/onelab-disintegrate/screen.png"
+    }
+  ]
+}

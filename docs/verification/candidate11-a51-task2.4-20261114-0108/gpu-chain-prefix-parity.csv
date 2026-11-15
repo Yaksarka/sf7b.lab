@@ -1,0 +1,8 @@
+case,prefix,max_channel_error,over3,worst
+0,1,1,0,x=835 y=36 shift=16 CPU=ff77b0ff GPU=ff76b0ff
+0,2,1,0,x=835 y=36 shift=16 CPU=ff884f00 GPU=ff894f00
+0,3,1,0,x=815 y=36 shift=16 CPU=ff884f00 GPU=ff894f00
+0,4,1,0,x=815 y=36 shift=16 CPU=ff884f00 GPU=ff894f00
+0,5,0,0,
+1,1,1,0,x=1204 y=27 shift=0 CPU=ff8b98e6 GPU=ff8b98e5
+1,2,0,0,

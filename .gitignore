@@ -1,0 +1,41 @@
+# Secrets, keys and private data
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.jks
+*.keystore
+signing/
+.private/
+.codex-backup/
+.sf7b-private-reference-audits/
+# Local configuration and generated output
+local.properties
+.gradle/
+.kotlin/
+**/build/
+artifacts/
+.idea/
+*.iml
+node_modules/
+__pycache__/
+.venv/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# Original-app inputs and raw research are not deliverable sources
+research/inputs/
+research/raw/
+research/runtime/
+research/*COVERAGE*.json
+research/EFFECTS_CATALOG.json
+research/CATALOG_RELEASE.json
+*.apk
+*.aab
+*.dex
+*.smali
+*.tar
+*.zip
+
