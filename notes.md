@@ -14,3 +14,6 @@
 ## Продолжение по поручению владельца
 
 Подтверждена публичная видимость. Согласованы требования по видео и исторические указатели 3.1; возобновление отражено в STATE/CONTEXT. Подготовлены JDK17/SDK36, выполнена успешная Linux-сборка с core70passed/1skipped и Lint. Телефон не подключён, 3.4 остаётся открыт. Отчёт: docs/verification/RESUME_CHECKLIST.md.
+
+## 15.11.2026 — A51 в каноническом checkout
+Remote/defaultbranch проверены;ff-only до7bb9645,новаяветкаcodex/task-3-4-runtime. Продолжается3.4,12/43. REA/A51доступны,ownPNGзагружен;crop/eraser/AOEобходначат. Свежийbackupиmetadata-onlycompare без потерьпрежнихdocuments/assets;новыйпроектнеисследован. ВременныеGlitchпанелипокаon,обязательновосстановитьoff. [Промежуточныйотчёт](docs/verification/A51_TASK3_4_RESUME_20261115.md).
