@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий через свой авторизованный GitHub-аккаунт.
 2. Прочитайте [AGENTS.md](AGENTS.md), [STATE.md](STATE.md), [AI_HANDOFF](docs/AI_HANDOFF.md).
-3. Установите JDK 17, Android SDK Platform 36 и Build-Tools 35.0.0. Gradle 8.13 загружается Wrapper; AGP 8.13.2 и Kotlin 2.2.21 закреплены в конфигурации.
+3. Установите JDK 17 и задайте JAVA_HOME на его каталог. Android SDK Platform 36 и Build-Tools 35.0.0 устанавливаются через SDK Manager или setup-скрипт ниже. Gradle 8.13 загружается Wrapper; AGP 8.13.2 и Kotlin 2.2.21 закреплены в конфигурации.
 4. Укажите SDK через ANDROID_HOME/ANDROID_SDK_ROOT или локальный, не коммитящийся local.properties.
 
 Windows PowerShell, из корня проекта:
@@ -31,7 +31,7 @@ bash tools/cloud/verify.sh
 ./gradlew --no-daemon --console=plain :core:test :app:assembleDebug :app:assembleDebugAndroidTest :app:lintDebug
 ~~~
 
-В Windows используйте gradlew.bat. При кириллице в пути JDK 17 используйте tools/build-local.ps1: вывод направляется в отдельную ASCII-папку. На Linux выходы стандартные: app/build, core/build; скрипт verify.sh копирует APK в artifacts/. Результаты текущего переноса: [проверка](docs/verification/MIGRATION_VALIDATION.md).
+В Windows используйте gradlew.bat. При кириллице в пути JDK 17 используйте tools/build-local.ps1: вывод направляется в отдельную папку; при необходимости задайте ASCII-путь через -BuildRoot. На Linux выходы стандартные: app/build, core/build; скрипт verify.sh копирует APK в artifacts/. Результаты текущего переноса: [проверка](docs/verification/MIGRATION_VALIDATION.md).
 
 ## Подпись и данные
 

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-15",
+  "repository": "https://github.com/Yaksarka/sf7b.lab",
+  "repositoryId": 1458631299,
+  "visibility": "private",
+  "defaultBranch": "codex/project-transfer",
+  "testedCommit": "fe8f47a41c3655b01e8f9f3bbd84b5fc56fd4aa0",
+  "command": ".\\tools\\build-local.ps1 -Tests",
+  "result": "BUILD SUCCESSFUL",
+  "duration": "7m 22s",
+  "gitFsck": "passed",
+  "cleanClone": true,
+  "core": {
+    "tests": 71,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1,
+    "passed": 70
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 17
+  },
+  "apks": [
+    {
+      "path": "app/outputs/apk/debug/app-debug.apk",
+      "bytes": 11271601,
+      "sha256": "9c6298173cf4ed53ace1cb7bd523c8138cc7ee9d609df13b4eff49fcf261e987"
+    },
+    {
+      "path": "app/outputs/apk/androidTest/debug/app-debug-androidTest.apk",
+      "bytes": 1162817,
+      "sha256": "abaecb654380e8925b43d98f3cd065052d83a1c37d08bb5451a48ab3539af776"
+    }
+  ],
+  "linuxCIExecuted": false,
+  "phoneUsed": false,
+  "emulatorUsed": false,
+  "otherAccountAccessVerified": false,
+  "externalAIServicesConfigured": false
+}

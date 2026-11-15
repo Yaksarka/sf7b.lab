@@ -18,4 +18,14 @@ gradlew.bat --no-daemon --console=plain :core:test :app:assembleDebug :app:assem
 
 Bash-скрипты проверяются синтаксически, PowerShell scripts разобраны штатным parser. Linux workflow подготовлен для ручного запуска; его успешное выполнение не заявляется. A51, эмулятор, GL pixels, исходные приложения, подпись установленного APK и данные телефона заново не проверялись.
 
-Проверка свежего GitHub clone будет зафиксирована отдельной сводкой после публикации.
+## Свежий GitHub clone
+
+Новый private-репозиторий создан через GitHub API (201), push и clone успешны. GitHub-плагин подтвердил private-видимость, владельца Yaksarka и права admin/push/pull текущего аккаунта. Default branch: codex/project-transfer.
+
+Свежий clone revision fe8f47a41c3655b01e8f9f3bbd84b5fc56fd4aa0: git fsck --full успешен, git status чистый. Документированная Windows-команда tools/build-local.ps1 -Tests завершилась BUILD SUCCESSFUL за 7m 22s; 70 core passed, 1 skipped, 0 failures, 0 errors; lint 0 errors/17 warnings. App и test APK собраны из этого clone в новом внешнем build root, без файлов исходных папок.
+
+[Сводка clone и SHA256](migration-20261115/clone-summary.json). Последующий коммит завершения переноса содержит только документацию/OpenSpec и отчёты; app/core/Gradle/tools не изменяются относительно проверенного revision. OpenSpec strict validation успешна, 12/43 сохранены.
+
+Другой аккаунт и внешние ИИ-сервисы не подключались: их логины/названия не предоставлены. Порядок доступа описан в [MIGRATION](../MIGRATION.md).
+
+У собранного app APK проверены разрешения через SDK aapt: разрешение INTERNET отсутствует. Это проверка manifest, а не новый тест runtime offline-first на A51.
